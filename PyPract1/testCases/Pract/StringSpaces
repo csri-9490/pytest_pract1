@@ -1,0 +1,4 @@
+str="srikanth reddy chelukala"
+s=[4,13,21]
+mod_s=str[:s[0]] +" "+ str[s[0]:s[1]]+" "+str[s[1]:s[2]]+" "+str[s[2]:]
+print(mod_s)

@@ -1,0 +1,75 @@
+1692107249713	geckodriver	INFO	Listening on 127.0.0.1:55146
+1692107252811	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55147" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\srika\\AppData\\Local\\Temp\\rust_mozprofileeACFs2"
+1692107281256	geckodriver	INFO	Listening on 127.0.0.1:55207
+1692107284317	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55208" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\srika\\AppData\\Local\\Temp\\rust_mozprofileRPZXFq"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1692107284596	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1692107284599	Marionette	INFO	Listening on port 55215
+Read port: 55215
+WebDriver BiDi listening on ws://127.0.0.1:55208
+1692107284738	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:55208/devtools/browser/68cbaa3a-5f22-4aab-bbf4-b79bf9a4e8d6
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://magento.softwaretestingboard.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://magento.softwaretestingboard.com."
+1692107649962	Marionette	INFO	Stopped listening on port 55215
+Dynamically enable window occlusion 1
+1692107672544	geckodriver	INFO	Listening on 127.0.0.1:55531
+1692107675628	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55532" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\srika\\AppData\\Local\\Temp\\rust_mozprofileogaoMx"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1692107675965	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1692107675969	Marionette	INFO	Listening on port 55539
+WebDriver BiDi listening on ws://127.0.0.1:55532
+Read port: 55539
+1692107676195	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:55532/devtools/browser/6e8495c9-3f4f-442f-9872-b417c723dc76
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://magento.softwaretestingboard.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://magento.softwaretestingboard.com."
+1692111853511	Marionette	INFO	Stopped listening on port 55539
+Dynamically enable window occlusion 1
+1692167841620	geckodriver	INFO	Listening on 127.0.0.1:54967
+1692167844713	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54968" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\srika\\AppData\\Local\\Temp\\rust_mozprofilervbX64"
+1692167845347	geckodriver	INFO	Listening on 127.0.0.1:54974
+1692167848428	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54975" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\srika\\AppData\\Local\\Temp\\rust_mozprofileQy3sNP"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1692167848794	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1692167848802	Marionette	INFO	Listening on port 54982
+Read port: 54982
+WebDriver BiDi listening on ws://127.0.0.1:54975
+1692167849031	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:54975/devtools/browser/1721ecec-d4ab-4220-8fae-a6d3d05ee905
+1692167870139	Marionette	INFO	Stopped listening on port 54982
+Dynamically enable window occlusion 1
+1692167879485	geckodriver	INFO	Listening on 127.0.0.1:55075
+1692167882566	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55076" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\srika\\AppData\\Local\\Temp\\rust_mozprofilemr0iEA"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1692167882806	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1692167882811	Marionette	INFO	Listening on port 55083
+WebDriver BiDi listening on ws://127.0.0.1:55076
+Read port: 55083
+1692167883014	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:55076/devtools/browser/635ebbf7-a2d2-4810-917e-0ff1a0bc9a54
+1692168031887	Marionette	INFO	Stopped listening on port 55083
+Dynamically enable window occlusion 1
+ng command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55111" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\srika\\AppData\\Local\\Temp\\rust_mozprofiletr2PfF"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1692167892445	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1692167892449	Marionette	INFO	Listening on port 55128
+WebDriver BiDi listening on ws://127.0.0.1:55111
+Read port: 55128
+1692167892683	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:55111/devtools/browser/17eb4262-5dc9-4ef2-8883-cb6ed2b1c4b4
+JavaScript error: https://magento.softwaretestingboard.com/pub/static/version1678540400/frontend/Magento/luma/en_US/Magento_Translation/js/mage-translation-dictionary.js, line 1: SyntaxError: JSON.parse: unexpected end of data at line 1 column 1 of the JSON data
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://magento.softwaretestingboard.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://magento.softwaretestingboard.com."
+1692168026501	Marionette	INFO	Stopped listening on port 55128
+Dynamically enable window occlusion 1
