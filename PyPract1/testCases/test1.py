@@ -1,5 +1,8 @@
-s='srikanth reddy chelukala c'
-s1=''
-for i in s:
-    s1=i+s1
-print(s1)
+str='srikanthreddy chelukala'
+freq={}
+for i in str:
+    if i in freq:
+        freq[i]=freq[i]+1
+    else:
+        freq[i]=1
+print(freq)
